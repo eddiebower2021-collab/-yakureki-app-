@@ -1,4 +1,4 @@
-const CACHE = "yakureki-v0.2.0";
+const CACHE = "yakureki-v0.4.6";
 const ASSETS = ["./index.html", "./manifest.webmanifest"];
 
 self.addEventListener("install", e => {
